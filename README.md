@@ -1,6 +1,3 @@
-# Gen-AI
-multimodal-ecommerce-chatbot
-
 # Gen-AI: Multimodal E-commerce Chatbot
 
 This project aims to build a **multimodal conversational AI chatbot** for e-commerce platforms that can answer customer queries using both **text and images**.
