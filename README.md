@@ -1,4 +1,4 @@
-# Gen-AI: Multimodal E-commerce Chatbot
+# Gen-AI: Multimodal E-commerce Chatbot Final Project
 
 This project aims to build a **multimodal conversational AI chatbot** for e-commerce platforms that can answer customer queries using both **text and images**.
 
@@ -28,7 +28,7 @@ multimodal-ecommerce-chatbot/
 - Google Vertex AI Vector Search (optional)
 
 ## Dataset
-- [Amazon Product Dataset 2020](https://www.kaggle.com/datasets/promptcloud/amazon-product-dataset-2020)
+- The data is sourced from here: [Amazon Product Dataset 2020](https://www.kaggle.com/datasets/promptcloud/amazon-product-dataset-2020)
 
 ---
 
